@@ -1,6 +1,6 @@
 # alelele
 
-얼렐레 프로젝트 '피노스토리' 작업물<br/><br/>
+얼렐레 프로젝트 'pinoG' 작업물<br/><br/>
 ![a_total](https://user-images.githubusercontent.com/105924660/218362774-86e58e56-f28a-4047-83aa-b4d619d5a456.jpg)
 <br/><br/>
 ![blueprints](https://user-images.githubusercontent.com/105924660/218362850-1d7d707d-86a0-4d82-8cd5-bcb793ff4a5b.jpg)
