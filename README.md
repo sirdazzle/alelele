@@ -1,7 +1,11 @@
 # alelele
+# 얼렐레 project 'pino story' 작업물
 
 ![a_total](https://user-images.githubusercontent.com/105924660/218362774-86e58e56-f28a-4047-83aa-b4d619d5a456.jpg)
+
+#청사진
 ![blueprints](https://user-images.githubusercontent.com/105924660/218362850-1d7d707d-86a0-4d82-8cd5-bcb793ff4a5b.jpg)
+#책
 ![book1](https://user-images.githubusercontent.com/105924660/218362856-bf2f29d8-f4f4-41c3-b9a9-54bde3a2a4ab.jpg)
 ![book2](https://user-images.githubusercontent.com/105924660/218362858-26a27696-28dc-49e7-9f36-aa8cf08d4b9d.jpg)
 ![book3](https://user-images.githubusercontent.com/105924660/218362863-271f7d6b-728c-48c0-8809-5611873e7f72.jpg)
