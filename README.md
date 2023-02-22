@@ -13,7 +13,6 @@
 <br/><br/>
 <br/><br/>
 ※현 오브제 상태※<br/><br/>
-![a_total](https://user-images.githubusercontent.com/105924660/218390125-8aa4c66f-579d-4424-9542-f54661dfd0dd.png)
-<br/><br/>
-![b_total](https://user-images.githubusercontent.com/105924660/218951054-c2588c10-8729-46c7-96dc-146b0517c2da.png)
-<br/><br/>
+![C_total](https://user-images.githubusercontent.com/105924660/220625348-a239ba46-31a0-4d94-a8a7-3ab56e9cedcc.png)
+![A_total](https://user-images.githubusercontent.com/105924660/220625469-d190dd36-47ba-42a2-b72d-806b74a75c1b.png)
+![B_total](https://user-images.githubusercontent.com/105924660/220625742-b389db7f-2292-49be-94ee-888320263d8f.png)
